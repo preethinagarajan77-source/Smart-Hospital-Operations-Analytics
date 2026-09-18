@@ -71,6 +71,10 @@ The dashboard provides interactive filters for:
 
 It also contains KPI cards and interactive charts for hospital operations and performance analysis.
 
+### Dashboard Preview
+
+![Smart Hospital Operations Analytics Dashboard](visualizations/hospital-dashboard.png)
+
 ## Project Structure
 
 ```text
