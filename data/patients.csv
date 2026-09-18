@@ -1,0 +1,501 @@
+Patient_ID,Age,Gender,Department,Appointment_Date,Appointment_Status,Waiting_Time_Min,Treatment_Cost
+P001,15,Female,Dermatology,2026-05-15,Cancelled,0,0
+P002,82,Female,Dermatology,2026-09-02,No-Show,0,0
+P003,49,Male,Neurology,2026-01-29,Completed,53,9731
+P004,46,Male,Pediatrics,2026-02-11,No-Show,0,0
+P005,18,Female,Orthopedics,2026-09-13,Rescheduled,9,0
+P006,85,Male,Neurology,2026-09-16,Cancelled,0,0
+P007,64,Male,Orthopedics,2026-03-07,Cancelled,0,0
+P008,44,Male,Pediatrics,2026-08-19,Cancelled,0,0
+P009,50,Male,Emergency,2026-08-07,Rescheduled,35,0
+P010,28,Female,Dermatology,2026-01-31,Rescheduled,21,0
+P011,25,Female,Orthopedics,2026-07-04,Cancelled,0,0
+P012,6,Male,Emergency,2026-08-10,Cancelled,0,0
+P013,74,Male,General Medicine,2026-04-28,Completed,18,1534
+P014,81,Male,Cardiology,2026-07-26,Completed,18,7528
+P015,50,Male,Orthopedics,2026-08-04,No-Show,0,0
+P016,30,Male,Dermatology,2026-08-01,Rescheduled,43,0
+P017,16,Female,Neurology,2026-08-04,No-Show,0,0
+P018,62,Female,Cardiology,2026-04-26,Cancelled,0,0
+P019,56,Male,Dermatology,2026-05-06,Cancelled,0,0
+P020,10,Female,General Medicine,2026-03-09,No-Show,0,0
+P021,25,Female,General Medicine,2026-05-01,Completed,45,1474
+P022,18,Female,Dermatology,2026-03-20,Cancelled,0,0
+P023,23,Male,Orthopedics,2026-08-08,No-Show,0,0
+P024,8,Male,Orthopedics,2026-02-01,Cancelled,0,0
+P025,82,Female,Dermatology,2026-07-24,No-Show,0,0
+P026,74,Female,Emergency,2026-02-10,Completed,42,3970
+P027,85,Male,Orthopedics,2026-03-09,Cancelled,0,0
+P028,7,Female,Dermatology,2026-08-31,Rescheduled,19,0
+P029,72,Male,Pediatrics,2026-02-11,Rescheduled,25,0
+P030,11,Male,Neurology,2026-08-09,Completed,50,10885
+P031,54,Male,Orthopedics,2026-02-15,Cancelled,0,0
+P032,70,Female,General Medicine,2026-06-09,Completed,31,2443
+P033,52,Male,Dermatology,2026-09-02,Cancelled,0,0
+P034,62,Male,Dermatology,2026-04-06,Cancelled,0,0
+P035,19,Male,Cardiology,2026-05-04,Cancelled,0,0
+P036,73,Male,Dermatology,2026-01-23,Rescheduled,29,0
+P037,2,Male,General Medicine,2026-01-11,Rescheduled,8,0
+P038,5,Male,General Medicine,2026-07-30,No-Show,0,0
+P039,58,Male,Cardiology,2026-06-15,No-Show,0,0
+P040,60,Female,General Medicine,2026-02-14,Rescheduled,30,0
+P041,2,Male,Dermatology,2026-06-01,Cancelled,0,0
+P042,46,Male,Cardiology,2026-06-20,Completed,24,8459
+P043,77,Male,Neurology,2026-09-14,Completed,59,2992
+P044,67,Female,Orthopedics,2026-03-05,Rescheduled,36,0
+P045,73,Male,Dermatology,2026-02-05,No-Show,0,0
+P046,10,Female,Pediatrics,2026-09-19,Cancelled,0,0
+P047,12,Female,Pediatrics,2026-06-25,Cancelled,0,0
+P048,39,Male,Pediatrics,2026-07-30,Completed,21,1251
+P049,56,Male,Neurology,2026-05-27,Completed,26,4840
+P050,56,Female,General Medicine,2026-01-27,Rescheduled,10,0
+P051,45,Male,Orthopedics,2026-05-26,No-Show,0,0
+P052,77,Male,Pediatrics,2026-05-12,No-Show,0,0
+P053,85,Female,General Medicine,2026-01-20,Completed,60,2018
+P054,53,Male,Pediatrics,2026-04-16,Cancelled,0,0
+P055,54,Female,Dermatology,2026-07-18,Rescheduled,18,0
+P056,39,Female,Orthopedics,2026-04-14,Rescheduled,26,0
+P057,66,Female,Dermatology,2026-05-09,Cancelled,0,0
+P058,47,Male,Neurology,2026-06-24,Completed,58,2574
+P059,73,Male,General Medicine,2026-02-20,Cancelled,0,0
+P060,68,Female,Pediatrics,2026-05-27,Cancelled,0,0
+P061,17,Male,Orthopedics,2026-02-02,No-Show,0,0
+P062,85,Male,Dermatology,2026-07-16,No-Show,0,0
+P063,44,Male,Dermatology,2026-05-02,Rescheduled,34,0
+P064,12,Male,Emergency,2026-03-22,Rescheduled,13,0
+P065,17,Female,Orthopedics,2026-02-19,Completed,31,5683
+P066,85,Female,Neurology,2026-03-09,Cancelled,0,0
+P067,30,Female,Cardiology,2026-09-17,Rescheduled,14,0
+P068,61,Male,General Medicine,2026-08-22,No-Show,0,0
+P069,49,Female,General Medicine,2026-02-17,Cancelled,0,0
+P070,76,Female,Neurology,2026-06-02,Completed,58,4876
+P071,47,Female,Pediatrics,2026-06-06,No-Show,0,0
+P072,35,Male,Cardiology,2026-09-15,Cancelled,0,0
+P073,15,Male,Dermatology,2026-06-06,Completed,14,3432
+P074,83,Female,Emergency,2026-01-22,No-Show,0,0
+P075,28,Male,Dermatology,2026-03-04,Cancelled,0,0
+P076,78,Male,Neurology,2026-01-06,Completed,47,11505
+P077,83,Female,Pediatrics,2026-03-16,Rescheduled,19,0
+P078,74,Male,Neurology,2026-06-04,Rescheduled,6,0
+P079,5,Male,Neurology,2026-09-21,Rescheduled,10,0
+P080,70,Female,Cardiology,2026-05-27,No-Show,0,0
+P081,59,Male,Cardiology,2026-05-20,No-Show,0,0
+P082,31,Female,Emergency,2026-08-10,Completed,42,4693
+P083,42,Female,Dermatology,2026-01-17,Rescheduled,38,0
+P084,19,Male,Dermatology,2026-09-04,No-Show,0,0
+P085,6,Female,Pediatrics,2026-04-19,Completed,41,3395
+P086,33,Female,Orthopedics,2026-04-27,No-Show,0,0
+P087,3,Female,General Medicine,2026-02-22,Cancelled,0,0
+P088,77,Female,Cardiology,2026-04-03,Completed,27,13156
+P089,43,Male,Pediatrics,2026-07-01,Cancelled,0,0
+P090,75,Female,Pediatrics,2026-08-21,Rescheduled,5,0
+P091,82,Male,Dermatology,2026-07-03,Rescheduled,25,0
+P092,57,Female,Emergency,2026-02-03,No-Show,0,0
+P093,16,Female,Neurology,2026-03-15,Completed,20,6915
+P094,52,Female,Neurology,2026-05-01,No-Show,0,0
+P095,57,Male,Dermatology,2026-07-28,Cancelled,0,0
+P096,3,Female,General Medicine,2026-06-15,No-Show,0,0
+P097,17,Female,Dermatology,2026-03-06,No-Show,0,0
+P098,24,Female,General Medicine,2026-07-14,Completed,24,1700
+P099,54,Male,Dermatology,2026-04-15,Rescheduled,42,0
+P100,40,Female,Pediatrics,2026-08-02,Rescheduled,12,0
+P101,15,Female,Neurology,2026-03-29,Completed,52,11060
+P102,33,Female,Orthopedics,2026-02-05,No-Show,0,0
+P103,49,Male,Neurology,2026-07-16,Rescheduled,6,0
+P104,8,Female,Cardiology,2026-05-14,Rescheduled,36,0
+P105,14,Female,Emergency,2026-07-06,No-Show,0,0
+P106,60,Male,Emergency,2026-08-02,Cancelled,0,0
+P107,8,Male,Neurology,2026-04-02,Rescheduled,18,0
+P108,22,Female,Dermatology,2026-09-15,No-Show,0,0
+P109,63,Female,Dermatology,2026-03-07,Cancelled,0,0
+P110,34,Male,Cardiology,2026-06-24,Cancelled,0,0
+P111,49,Male,Cardiology,2026-06-13,Completed,20,14874
+P112,66,Male,Neurology,2026-02-20,Cancelled,0,0
+P113,25,Male,Neurology,2026-06-29,Rescheduled,15,0
+P114,37,Female,Pediatrics,2026-06-30,Cancelled,0,0
+P115,54,Male,Dermatology,2026-01-07,No-Show,0,0
+P116,21,Female,Dermatology,2026-08-20,Completed,36,1950
+P117,7,Female,Orthopedics,2026-03-30,Rescheduled,39,0
+P118,49,Female,Orthopedics,2026-04-28,Completed,16,4295
+P119,74,Male,Dermatology,2026-05-18,Completed,11,2024
+P120,72,Male,Neurology,2026-07-25,Cancelled,0,0
+P121,40,Female,General Medicine,2026-05-17,Completed,34,2742
+P122,12,Female,Pediatrics,2026-09-25,Cancelled,0,0
+P123,13,Male,Cardiology,2026-02-01,Cancelled,0,0
+P124,32,Female,Emergency,2026-04-03,Completed,38,5432
+P125,48,Male,Dermatology,2026-04-17,Completed,38,4892
+P126,36,Female,Pediatrics,2026-06-17,No-Show,0,0
+P127,38,Male,Neurology,2026-06-03,Cancelled,0,0
+P128,9,Female,Cardiology,2026-06-02,Rescheduled,16,0
+P129,85,Male,Cardiology,2026-01-19,Rescheduled,32,0
+P130,22,Female,Neurology,2026-04-16,Rescheduled,40,0
+P131,43,Male,Neurology,2026-01-20,Rescheduled,32,0
+P132,52,Female,General Medicine,2026-07-10,Rescheduled,42,0
+P133,28,Male,Orthopedics,2026-03-06,Completed,44,4791
+P134,64,Female,Pediatrics,2026-07-29,Rescheduled,40,0
+P135,17,Female,Pediatrics,2026-04-24,Completed,35,3529
+P136,14,Female,Emergency,2026-02-22,Rescheduled,42,0
+P137,5,Female,Dermatology,2026-05-12,Rescheduled,40,0
+P138,61,Female,Cardiology,2026-06-03,Completed,60,8605
+P139,63,Female,Neurology,2026-08-30,Cancelled,0,0
+P140,52,Male,Cardiology,2026-01-14,Cancelled,0,0
+P141,28,Female,Pediatrics,2026-02-16,Completed,10,2370
+P142,83,Female,Emergency,2026-08-30,Rescheduled,19,0
+P143,71,Male,Pediatrics,2026-08-13,Completed,18,3265
+P144,19,Male,Cardiology,2026-05-23,Cancelled,0,0
+P145,56,Male,Dermatology,2026-06-19,Cancelled,0,0
+P146,23,Male,Dermatology,2026-01-31,No-Show,0,0
+P147,3,Male,Emergency,2026-02-11,Cancelled,0,0
+P148,63,Male,Dermatology,2026-08-11,Rescheduled,29,0
+P149,77,Female,Cardiology,2026-07-20,Rescheduled,23,0
+P150,9,Male,Orthopedics,2026-09-25,Cancelled,0,0
+P151,23,Female,Neurology,2026-07-19,Cancelled,0,0
+P152,50,Male,Neurology,2026-04-06,Cancelled,0,0
+P153,21,Female,Dermatology,2026-02-02,Cancelled,0,0
+P154,1,Female,Neurology,2026-01-26,Rescheduled,21,0
+P155,19,Male,Emergency,2026-03-01,No-Show,0,0
+P156,34,Female,Dermatology,2026-06-22,No-Show,0,0
+P157,53,Female,Cardiology,2026-01-01,Cancelled,0,0
+P158,79,Male,Pediatrics,2026-03-12,Rescheduled,39,0
+P159,4,Female,Emergency,2026-08-07,Rescheduled,12,0
+P160,77,Male,Emergency,2026-08-17,Cancelled,0,0
+P161,63,Male,Neurology,2026-02-27,Completed,44,4636
+P162,58,Male,Cardiology,2026-05-16,No-Show,0,0
+P163,8,Female,Pediatrics,2026-05-08,Rescheduled,29,0
+P164,46,Female,Pediatrics,2026-07-28,Completed,58,3092
+P165,47,Male,Emergency,2026-09-03,Rescheduled,30,0
+P166,37,Male,Cardiology,2026-05-25,Completed,11,9703
+P167,22,Male,Neurology,2026-01-28,Cancelled,0,0
+P168,12,Female,Neurology,2026-06-17,No-Show,0,0
+P169,78,Female,Pediatrics,2026-03-13,Completed,56,864
+P170,69,Male,Orthopedics,2026-04-25,No-Show,0,0
+P171,11,Male,Dermatology,2026-05-03,Completed,24,4175
+P172,69,Male,Cardiology,2026-02-27,Cancelled,0,0
+P173,32,Male,Orthopedics,2026-09-08,Completed,15,7557
+P174,14,Male,Emergency,2026-02-07,Cancelled,0,0
+P175,73,Male,Pediatrics,2026-04-09,Cancelled,0,0
+P176,40,Female,Emergency,2026-01-16,No-Show,0,0
+P177,43,Male,Cardiology,2026-09-05,Completed,33,4776
+P178,45,Female,Neurology,2026-04-07,Completed,42,3931
+P179,41,Male,Emergency,2026-04-16,Completed,56,6871
+P180,70,Male,Emergency,2026-07-14,Cancelled,0,0
+P181,68,Male,General Medicine,2026-05-23,Cancelled,0,0
+P182,49,Female,General Medicine,2026-07-30,Completed,56,2092
+P183,70,Female,Cardiology,2026-02-27,No-Show,0,0
+P184,32,Female,Emergency,2026-04-18,Completed,42,4482
+P185,5,Female,Pediatrics,2026-09-19,Cancelled,0,0
+P186,65,Female,Neurology,2026-07-25,No-Show,0,0
+P187,43,Male,General Medicine,2026-01-10,Completed,52,1168
+P188,10,Female,Cardiology,2026-04-26,No-Show,0,0
+P189,84,Male,General Medicine,2026-03-25,Cancelled,0,0
+P190,19,Female,Emergency,2026-09-13,Cancelled,0,0
+P191,45,Male,Neurology,2026-08-29,Rescheduled,9,0
+P192,57,Female,General Medicine,2026-07-08,Completed,28,2926
+P193,53,Female,Cardiology,2026-08-28,Rescheduled,23,0
+P194,19,Female,Dermatology,2026-08-09,Cancelled,0,0
+P195,78,Male,Emergency,2026-06-04,Cancelled,0,0
+P196,50,Female,Orthopedics,2026-07-25,Rescheduled,23,0
+P197,15,Female,Pediatrics,2026-07-22,Cancelled,0,0
+P198,72,Male,Emergency,2026-03-02,Completed,45,3273
+P199,42,Male,Pediatrics,2026-03-21,Rescheduled,33,0
+P200,80,Male,Emergency,2026-03-06,Cancelled,0,0
+P201,56,Female,Emergency,2026-04-09,Completed,14,8092
+P202,26,Male,General Medicine,2026-06-16,Cancelled,0,0
+P203,73,Male,General Medicine,2026-06-30,Rescheduled,42,0
+P204,4,Female,Pediatrics,2026-01-01,Completed,12,1862
+P205,8,Male,Orthopedics,2026-08-19,Cancelled,0,0
+P206,13,Female,Neurology,2026-01-08,Rescheduled,31,0
+P207,58,Female,Dermatology,2026-04-18,Completed,24,4464
+P208,10,Male,Dermatology,2026-04-01,No-Show,0,0
+P209,29,Female,Orthopedics,2026-03-07,Cancelled,0,0
+P210,80,Female,Orthopedics,2026-07-18,No-Show,0,0
+P211,82,Male,Cardiology,2026-08-13,Cancelled,0,0
+P212,59,Male,Dermatology,2026-07-09,Completed,40,2213
+P213,68,Female,Neurology,2026-08-03,Cancelled,0,0
+P214,72,Male,Pediatrics,2026-07-12,Completed,34,2299
+P215,67,Male,Cardiology,2026-09-13,Rescheduled,40,0
+P216,53,Female,General Medicine,2026-07-05,No-Show,0,0
+P217,74,Male,Pediatrics,2026-06-18,Rescheduled,12,0
+P218,51,Male,Dermatology,2026-04-22,Cancelled,0,0
+P219,48,Male,Orthopedics,2026-04-13,Cancelled,0,0
+P220,50,Female,Emergency,2026-01-06,Completed,36,8037
+P221,17,Female,General Medicine,2026-08-05,Completed,23,2354
+P222,11,Male,Cardiology,2026-01-16,Rescheduled,31,0
+P223,47,Female,Orthopedics,2026-03-06,No-Show,0,0
+P224,48,Male,Neurology,2026-03-04,No-Show,0,0
+P225,42,Male,Cardiology,2026-04-07,Completed,41,14186
+P226,43,Female,Neurology,2026-05-01,Completed,34,8529
+P227,77,Female,Pediatrics,2026-08-10,Completed,14,1267
+P228,31,Male,Pediatrics,2026-05-09,Completed,46,2802
+P229,81,Male,General Medicine,2026-06-06,Rescheduled,44,0
+P230,57,Male,Pediatrics,2026-08-29,Cancelled,0,0
+P231,67,Female,Emergency,2026-09-10,Completed,29,2595
+P232,40,Male,Pediatrics,2026-07-14,Rescheduled,29,0
+P233,65,Female,Cardiology,2026-09-07,Cancelled,0,0
+P234,24,Male,Orthopedics,2026-07-06,Completed,13,4030
+P235,58,Female,General Medicine,2026-03-13,No-Show,0,0
+P236,49,Male,Cardiology,2026-03-27,Rescheduled,40,0
+P237,54,Male,Emergency,2026-02-12,Completed,41,9371
+P238,7,Male,Emergency,2026-05-18,Completed,14,8764
+P239,14,Female,Orthopedics,2026-03-02,Cancelled,0,0
+P240,34,Female,Neurology,2026-04-07,Rescheduled,5,0
+P241,74,Male,Cardiology,2026-04-12,Rescheduled,21,0
+P242,59,Female,Dermatology,2026-05-11,Completed,43,4374
+P243,57,Male,Dermatology,2026-08-03,Cancelled,0,0
+P244,39,Female,Cardiology,2026-05-11,Rescheduled,25,0
+P245,14,Female,Cardiology,2026-08-15,Cancelled,0,0
+P246,41,Female,Cardiology,2026-08-07,Cancelled,0,0
+P247,19,Male,Neurology,2026-02-15,No-Show,0,0
+P248,81,Male,Cardiology,2026-03-26,Rescheduled,13,0
+P249,5,Male,Orthopedics,2026-07-04,Rescheduled,25,0
+P250,15,Female,Dermatology,2026-04-11,Cancelled,0,0
+P251,1,Female,Cardiology,2026-03-25,No-Show,0,0
+P252,13,Female,Pediatrics,2026-05-23,Cancelled,0,0
+P253,62,Female,General Medicine,2026-01-27,Cancelled,0,0
+P254,30,Male,Orthopedics,2026-02-28,Cancelled,0,0
+P255,81,Male,General Medicine,2026-06-04,No-Show,0,0
+P256,73,Male,Orthopedics,2026-08-04,Rescheduled,15,0
+P257,31,Female,Orthopedics,2026-01-03,Completed,26,3058
+P258,29,Female,General Medicine,2026-06-18,No-Show,0,0
+P259,84,Male,Neurology,2026-04-25,Rescheduled,23,0
+P260,60,Male,Orthopedics,2026-05-21,No-Show,0,0
+P261,53,Female,General Medicine,2026-09-03,No-Show,0,0
+P262,79,Female,Pediatrics,2026-06-13,Cancelled,0,0
+P263,82,Female,Pediatrics,2026-09-27,No-Show,0,0
+P264,55,Male,Pediatrics,2026-09-19,Cancelled,0,0
+P265,34,Female,Emergency,2026-02-05,Cancelled,0,0
+P266,51,Female,Neurology,2026-06-05,No-Show,0,0
+P267,49,Male,Emergency,2026-08-20,Cancelled,0,0
+P268,34,Male,Cardiology,2026-02-02,Cancelled,0,0
+P269,29,Female,Dermatology,2026-02-17,Completed,46,3664
+P270,39,Female,Neurology,2026-04-04,No-Show,0,0
+P271,36,Female,Dermatology,2026-03-25,Cancelled,0,0
+P272,32,Female,General Medicine,2026-04-04,Rescheduled,25,0
+P273,22,Female,General Medicine,2026-01-04,Completed,52,2874
+P274,39,Male,Cardiology,2026-04-25,Cancelled,0,0
+P275,85,Female,Pediatrics,2026-08-27,Cancelled,0,0
+P276,54,Male,Cardiology,2026-09-03,Completed,59,5250
+P277,24,Female,Cardiology,2026-03-02,No-Show,0,0
+P278,9,Female,Orthopedics,2026-02-21,Completed,52,2592
+P279,78,Female,Emergency,2026-03-24,Completed,21,6870
+P280,51,Female,Dermatology,2026-07-16,Completed,52,1899
+P281,40,Female,Neurology,2026-06-19,Cancelled,0,0
+P282,57,Female,General Medicine,2026-02-24,Completed,56,972
+P283,10,Male,Dermatology,2026-09-11,No-Show,0,0
+P284,11,Male,Dermatology,2026-06-21,No-Show,0,0
+P285,54,Male,Orthopedics,2026-01-12,Completed,31,7456
+P286,45,Male,General Medicine,2026-02-15,No-Show,0,0
+P287,45,Female,Dermatology,2026-07-08,No-Show,0,0
+P288,5,Male,Dermatology,2026-04-09,Completed,25,3868
+P289,66,Male,General Medicine,2026-03-03,Rescheduled,25,0
+P290,50,Female,Pediatrics,2026-03-23,Cancelled,0,0
+P291,33,Male,Orthopedics,2026-07-06,Cancelled,0,0
+P292,82,Male,Emergency,2026-07-19,Cancelled,0,0
+P293,55,Male,Cardiology,2026-03-13,Cancelled,0,0
+P294,27,Female,Neurology,2026-09-14,Rescheduled,31,0
+P295,9,Female,Cardiology,2026-04-25,Rescheduled,29,0
+P296,66,Female,Neurology,2026-06-27,Completed,51,9720
+P297,35,Male,Orthopedics,2026-03-22,No-Show,0,0
+P298,3,Male,Emergency,2026-05-30,Rescheduled,29,0
+P299,7,Female,Orthopedics,2026-03-29,Completed,12,3676
+P300,39,Male,Cardiology,2026-06-18,No-Show,0,0
+P301,71,Female,Neurology,2026-08-16,No-Show,0,0
+P302,43,Male,Orthopedics,2026-06-19,No-Show,0,0
+P303,8,Male,Orthopedics,2026-03-20,No-Show,0,0
+P304,82,Female,General Medicine,2026-09-07,Cancelled,0,0
+P305,81,Female,General Medicine,2026-02-07,No-Show,0,0
+P306,16,Female,Orthopedics,2026-05-10,No-Show,0,0
+P307,37,Female,Dermatology,2026-06-15,Rescheduled,28,0
+P308,62,Male,General Medicine,2026-09-10,Rescheduled,38,0
+P309,11,Female,Pediatrics,2026-02-25,No-Show,0,0
+P310,32,Male,Pediatrics,2026-01-06,Cancelled,0,0
+P311,55,Female,Pediatrics,2026-09-08,Rescheduled,22,0
+P312,26,Female,Orthopedics,2026-05-02,No-Show,0,0
+P313,13,Male,Orthopedics,2026-06-14,Rescheduled,9,0
+P314,49,Male,Pediatrics,2026-08-20,Completed,15,3141
+P315,26,Male,Cardiology,2026-09-15,Rescheduled,37,0
+P316,45,Female,Dermatology,2026-06-07,No-Show,0,0
+P317,70,Male,Emergency,2026-03-07,Cancelled,0,0
+P318,40,Female,General Medicine,2026-03-31,Cancelled,0,0
+P319,66,Female,Emergency,2026-04-20,Cancelled,0,0
+P320,18,Female,Orthopedics,2026-08-21,Rescheduled,25,0
+P321,28,Female,Neurology,2026-07-17,No-Show,0,0
+P322,70,Male,Dermatology,2026-02-10,Completed,34,2953
+P323,66,Female,Pediatrics,2026-02-14,Cancelled,0,0
+P324,45,Male,Dermatology,2026-09-15,No-Show,0,0
+P325,48,Male,Cardiology,2026-09-25,Rescheduled,41,0
+P326,31,Male,Cardiology,2026-02-18,Completed,24,12682
+P327,20,Male,Dermatology,2026-01-04,Completed,15,2358
+P328,3,Male,General Medicine,2026-06-08,Completed,24,1332
+P329,16,Male,Orthopedics,2026-02-26,No-Show,0,0
+P330,64,Male,Emergency,2026-01-28,Rescheduled,15,0
+P331,64,Female,Cardiology,2026-06-21,Cancelled,0,0
+P332,9,Female,Neurology,2026-07-03,Cancelled,0,0
+P333,43,Male,Pediatrics,2026-08-09,Rescheduled,44,0
+P334,56,Female,Pediatrics,2026-09-13,Cancelled,0,0
+P335,11,Female,Emergency,2026-07-24,No-Show,0,0
+P336,30,Male,Orthopedics,2026-05-31,Completed,46,7262
+P337,26,Male,Emergency,2026-09-10,No-Show,0,0
+P338,64,Female,Cardiology,2026-01-10,Completed,19,6036
+P339,12,Female,Dermatology,2026-04-07,Cancelled,0,0
+P340,12,Male,Dermatology,2026-06-10,Rescheduled,22,0
+P341,17,Female,General Medicine,2026-06-18,No-Show,0,0
+P342,47,Male,General Medicine,2026-07-19,Completed,48,524
+P343,80,Female,Orthopedics,2026-03-21,Rescheduled,8,0
+P344,69,Male,Cardiology,2026-09-29,Rescheduled,41,0
+P345,25,Male,Emergency,2026-08-04,Completed,14,4738
+P346,25,Female,Cardiology,2026-04-12,Cancelled,0,0
+P347,33,Male,General Medicine,2026-05-03,Completed,27,832
+P348,36,Male,Pediatrics,2026-01-03,Rescheduled,10,0
+P349,82,Male,Orthopedics,2026-05-23,No-Show,0,0
+P350,36,Male,Orthopedics,2026-03-27,Completed,49,2712
+P351,75,Male,Emergency,2026-02-23,Cancelled,0,0
+P352,35,Male,Pediatrics,2026-03-01,Completed,11,3830
+P353,14,Female,Cardiology,2026-01-26,Cancelled,0,0
+P354,3,Male,Neurology,2026-08-30,Cancelled,0,0
+P355,30,Male,Orthopedics,2026-07-23,Completed,38,5515
+P356,75,Male,Pediatrics,2026-06-20,Cancelled,0,0
+P357,62,Male,Orthopedics,2026-09-11,Completed,52,2132
+P358,8,Female,General Medicine,2026-05-04,Completed,13,2910
+P359,56,Male,Emergency,2026-04-03,Completed,14,4801
+P360,27,Female,Neurology,2026-01-22,Cancelled,0,0
+P361,61,Female,Dermatology,2026-08-26,Cancelled,0,0
+P362,63,Female,Pediatrics,2026-02-13,No-Show,0,0
+P363,10,Female,Dermatology,2026-02-17,Rescheduled,14,0
+P364,83,Female,Pediatrics,2026-02-23,Completed,59,535
+P365,81,Female,Neurology,2026-07-02,Rescheduled,26,0
+P366,72,Female,Neurology,2026-01-08,Cancelled,0,0
+P367,77,Female,Pediatrics,2026-09-01,No-Show,0,0
+P368,56,Male,Pediatrics,2026-08-19,Completed,11,3550
+P369,79,Female,Orthopedics,2026-01-22,Completed,12,5698
+P370,71,Female,Pediatrics,2026-07-25,No-Show,0,0
+P371,10,Female,Orthopedics,2026-04-14,No-Show,0,0
+P372,54,Male,Cardiology,2026-02-23,Cancelled,0,0
+P373,24,Male,Cardiology,2026-09-29,Cancelled,0,0
+P374,61,Female,Cardiology,2026-08-11,No-Show,0,0
+P375,50,Female,Pediatrics,2026-01-21,Rescheduled,32,0
+P376,48,Male,General Medicine,2026-02-16,Completed,22,1682
+P377,17,Male,Pediatrics,2026-04-09,Completed,27,1187
+P378,57,Female,Cardiology,2026-08-27,No-Show,0,0
+P379,61,Male,Cardiology,2026-08-31,No-Show,0,0
+P380,55,Male,Cardiology,2026-01-18,Rescheduled,6,0
+P381,25,Male,Pediatrics,2026-06-20,Completed,52,1969
+P382,73,Male,Dermatology,2026-01-23,No-Show,0,0
+P383,85,Female,Emergency,2026-07-11,Cancelled,0,0
+P384,75,Male,Pediatrics,2026-03-30,Completed,26,1246
+P385,19,Female,Neurology,2026-09-17,No-Show,0,0
+P386,85,Female,Cardiology,2026-01-15,Completed,43,9794
+P387,3,Male,Neurology,2026-06-03,Completed,22,7143
+P388,83,Female,Orthopedics,2026-02-25,Cancelled,0,0
+P389,51,Male,General Medicine,2026-05-05,No-Show,0,0
+P390,78,Female,Cardiology,2026-09-08,Completed,50,5585
+P391,80,Female,Pediatrics,2026-06-17,Rescheduled,21,0
+P392,35,Female,Pediatrics,2026-01-24,Completed,58,2547
+P393,68,Female,General Medicine,2026-09-14,Completed,40,1660
+P394,12,Male,Neurology,2026-02-09,Rescheduled,27,0
+P395,60,Female,General Medicine,2026-01-19,No-Show,0,0
+P396,52,Female,Dermatology,2026-08-08,No-Show,0,0
+P397,18,Female,General Medicine,2026-05-05,No-Show,0,0
+P398,5,Male,Dermatology,2026-04-09,Completed,38,4661
+P399,20,Female,Orthopedics,2026-03-08,Cancelled,0,0
+P400,55,Female,Emergency,2026-03-12,No-Show,0,0
+P401,11,Female,Neurology,2026-03-02,Completed,56,11839
+P402,11,Male,Neurology,2026-07-27,Cancelled,0,0
+P403,65,Female,Orthopedics,2026-03-24,Rescheduled,17,0
+P404,53,Male,Orthopedics,2026-03-11,Completed,42,5640
+P405,58,Male,Pediatrics,2026-08-26,No-Show,0,0
+P406,71,Female,General Medicine,2026-07-23,Rescheduled,15,0
+P407,80,Female,Dermatology,2026-08-04,Completed,26,4533
+P408,13,Male,Neurology,2026-06-27,Cancelled,0,0
+P409,34,Female,Orthopedics,2026-04-15,Cancelled,0,0
+P410,75,Female,Emergency,2026-03-10,Rescheduled,34,0
+P411,27,Female,General Medicine,2026-05-06,Rescheduled,24,0
+P412,38,Male,Orthopedics,2026-09-30,Cancelled,0,0
+P413,48,Male,Emergency,2026-02-03,Cancelled,0,0
+P414,72,Female,General Medicine,2026-05-08,No-Show,0,0
+P415,41,Female,Cardiology,2026-05-27,Rescheduled,18,0
+P416,43,Male,Dermatology,2026-09-23,Rescheduled,21,0
+P417,47,Female,Emergency,2026-08-13,Rescheduled,41,0
+P418,61,Male,Neurology,2026-02-16,Cancelled,0,0
+P419,35,Female,Dermatology,2026-02-04,Completed,22,2919
+P420,23,Male,Cardiology,2026-03-02,Completed,44,10985
+P421,49,Male,Orthopedics,2026-03-05,No-Show,0,0
+P422,77,Male,Pediatrics,2026-08-11,Cancelled,0,0
+P423,16,Female,Dermatology,2026-02-15,Completed,46,1833
+P424,5,Male,Orthopedics,2026-05-14,Cancelled,0,0
+P425,50,Male,Dermatology,2026-09-09,No-Show,0,0
+P426,67,Male,General Medicine,2026-01-28,No-Show,0,0
+P427,43,Male,Neurology,2026-05-10,No-Show,0,0
+P428,8,Male,Cardiology,2026-02-11,Cancelled,0,0
+P429,64,Female,Neurology,2026-05-22,Rescheduled,44,0
+P430,13,Male,Dermatology,2026-01-07,No-Show,0,0
+P431,53,Male,Neurology,2026-04-01,No-Show,0,0
+P432,21,Female,Dermatology,2026-02-04,Rescheduled,32,0
+P433,29,Female,Orthopedics,2026-09-08,Completed,18,5416
+P434,61,Female,Dermatology,2026-06-22,Rescheduled,9,0
+P435,77,Male,Emergency,2026-06-18,Rescheduled,9,0
+P436,41,Female,Pediatrics,2026-06-05,Rescheduled,38,0
+P437,62,Female,Neurology,2026-04-16,Completed,39,4732
+P438,25,Male,Neurology,2026-06-19,Completed,55,5438
+P439,36,Female,Orthopedics,2026-08-05,Cancelled,0,0
+P440,72,Male,General Medicine,2026-05-18,Cancelled,0,0
+P441,11,Female,Neurology,2026-05-09,Completed,20,9036
+P442,84,Female,Emergency,2026-07-29,Rescheduled,32,0
+P443,57,Female,Orthopedics,2026-04-27,No-Show,0,0
+P444,16,Male,General Medicine,2026-04-29,No-Show,0,0
+P445,72,Male,Pediatrics,2026-02-18,Completed,19,1059
+P446,75,Male,General Medicine,2026-02-06,Completed,31,1588
+P447,53,Male,Pediatrics,2026-08-21,Cancelled,0,0
+P448,74,Male,General Medicine,2026-06-16,Completed,36,1387
+P449,37,Female,Neurology,2026-01-11,No-Show,0,0
+P450,56,Male,Neurology,2026-07-30,Cancelled,0,0
+P451,53,Female,General Medicine,2026-08-21,Cancelled,0,0
+P452,20,Male,Dermatology,2026-05-15,Rescheduled,28,0
+P453,67,Female,Neurology,2026-02-17,Cancelled,0,0
+P454,51,Female,Emergency,2026-06-07,Rescheduled,34,0
+P455,43,Male,Neurology,2026-04-02,Completed,29,8007
+P456,83,Female,Dermatology,2026-01-07,Cancelled,0,0
+P457,20,Male,Dermatology,2026-08-17,Completed,15,1366
+P458,49,Female,General Medicine,2026-07-19,Completed,27,924
+P459,8,Male,Pediatrics,2026-04-26,Completed,50,1237
+P460,16,Female,Cardiology,2026-03-20,No-Show,0,0
+P461,28,Male,Dermatology,2026-09-13,Cancelled,0,0
+P462,39,Female,Orthopedics,2026-09-28,Completed,51,3014
+P463,76,Male,Pediatrics,2026-07-09,Rescheduled,27,0
+P464,16,Male,Orthopedics,2026-09-18,Cancelled,0,0
+P465,68,Male,Dermatology,2026-04-20,Rescheduled,8,0
+P466,34,Female,Emergency,2026-03-13,Rescheduled,6,0
+P467,80,Female,Orthopedics,2026-02-24,No-Show,0,0
+P468,59,Female,Cardiology,2026-09-29,Completed,43,14207
+P469,36,Female,Cardiology,2026-08-21,Completed,57,3221
+P470,10,Male,Emergency,2026-08-01,Completed,53,3560
+P471,68,Female,Dermatology,2026-06-05,Cancelled,0,0
+P472,4,Female,Pediatrics,2026-07-02,Cancelled,0,0
+P473,15,Female,Pediatrics,2026-01-24,No-Show,0,0
+P474,31,Female,Orthopedics,2026-07-07,Rescheduled,24,0
+P475,69,Male,Orthopedics,2026-03-09,Cancelled,0,0
+P476,6,Male,Pediatrics,2026-06-11,No-Show,0,0
+P477,12,Male,Neurology,2026-04-18,Cancelled,0,0
+P478,32,Male,Emergency,2026-07-04,Cancelled,0,0
+P479,62,Female,Neurology,2026-07-26,Cancelled,0,0
+P480,45,Female,Cardiology,2026-02-23,No-Show,0,0
+P481,44,Male,General Medicine,2026-07-27,Completed,49,2731
+P482,34,Male,Orthopedics,2026-09-17,Rescheduled,14,0
+P483,74,Male,Dermatology,2026-08-12,Completed,37,1269
+P484,27,Male,Cardiology,2026-01-27,Completed,24,4036
+P485,23,Female,Pediatrics,2026-05-05,No-Show,0,0
+P486,58,Male,Dermatology,2026-07-23,No-Show,0,0
+P487,57,Male,Orthopedics,2026-08-14,Rescheduled,32,0
+P488,39,Female,General Medicine,2026-03-09,Rescheduled,17,0
+P489,55,Female,Emergency,2026-04-03,No-Show,0,0
+P490,53,Female,Cardiology,2026-03-28,No-Show,0,0
+P491,53,Male,Neurology,2026-02-21,Completed,32,11883
+P492,53,Male,General Medicine,2026-02-02,Completed,44,1231
+P493,54,Male,General Medicine,2026-01-23,No-Show,0,0
+P494,78,Female,Orthopedics,2026-07-24,Completed,42,6413
+P495,83,Male,General Medicine,2026-07-22,No-Show,0,0
+P496,76,Male,Orthopedics,2026-07-26,Completed,18,5904
+P497,8,Female,Cardiology,2026-06-20,Completed,57,8362
+P498,75,Female,Cardiology,2026-04-04,No-Show,0,0
+P499,41,Male,Cardiology,2026-07-25,Rescheduled,11,0
+P500,37,Female,General Medicine,2026-03-23,Cancelled,0,0
